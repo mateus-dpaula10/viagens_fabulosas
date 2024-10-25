@@ -1,0 +1,14 @@
+.footer {
+    text-align: center;
+    color: var(--color-padrao);
+    padding: 1.5rem 0;
+    box-shadow: 0 0 4px 2px rgba(0,0,0,.15);
+
+    p {
+        margin-bottom: 0;
+    }
+    
+    a {
+        color: var(--color-padrao);
+    }
+}
